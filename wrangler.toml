@@ -1,0 +1,7 @@
+name = "bun-cloudflare-app"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+account_id = "6e7a7f74a5fdc82475f9118c5cee4691"
+
+[observability]
+enabled = true
